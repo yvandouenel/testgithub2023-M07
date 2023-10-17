@@ -14,7 +14,22 @@ git add nom_du_fichierou_du_repertoire
 git commit -m "Texte explicatif sur ce commit."
 ```
 ## Push (Envoyer sur le serveur remote)
-
 ```shell
 git push
+```
+## status (pour voir exactement ouù on en est)
+```shell
+git status
+```
+## Voir les différences
+```shell
+git diff nomdufichier
+```
+## Voir les branches
+```shell
+git br
+```
+## créer une branche
+```shell
+git checkkkout -b develop
 ```

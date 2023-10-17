@@ -37,3 +37,8 @@ git checkout -b develop
 ```shell
 git log --all --decorate --oneline --graph
 ```
+
+## Supprimer la branche develop
+```shell
+git branch -d develop
+```

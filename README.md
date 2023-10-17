@@ -42,3 +42,13 @@ git log --all --decorate --oneline --graph
 ```shell
 git branch -d develop
 ```
+## Supprimer la branche develop
+```shell
+git branch -d develop
+```
+## Fusionner la branche develop sur la branche main
+```shell
+git checkout main
+git diff main..develop // pour voir les différences entre les deux branches
+git merge develop // crée un commit
+```

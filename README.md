@@ -1,3 +1,7 @@
 # Principales commandes GIT
 
-test
+
+Initialiser le repository
+```shell
+git init
+```

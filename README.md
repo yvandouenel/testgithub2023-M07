@@ -33,3 +33,7 @@ git br
 ```shell
 git checkkkout -b develop
 ```
+## Voir les logs avec une interface plus jolie
+```shell
+git log --all --decorate --oneline --graph
+```

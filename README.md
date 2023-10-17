@@ -13,7 +13,8 @@ git add nom_du_fichierou_du_repertoire
 ```shell
 git commit -m "Texte explicatif sur ce commit."
 ```
-## Push (envoyez sur le serveur remote)
+## Push (Envoyer sur le serveur remote)
+
 ```shell
 git push
 ```
